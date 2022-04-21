@@ -7,6 +7,8 @@
   WHERE
   ORDER BY
 ```
+
+```
 -ORACLE IMPORTENT FUNTION
 DUAL
 숫자 함수
@@ -16,11 +18,12 @@ DUAL
 NULL을 다른 값으로 변환하는 NVL
 DECODE 함수
 조건따라 서로 다른 처리가 가능한 CASE
-
+```
+```
 -GROUP
 GROUP BY
 HAVING
-
+```
 
 -DDL Table Commend
 CREATE TABLE  //생성
