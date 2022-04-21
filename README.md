@@ -2,7 +2,7 @@
 
 
 -기본
-SELECT
+-SELECT
 WHERE
 ORDER BY
 
