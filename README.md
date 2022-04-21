@@ -1,5 +1,14 @@
 # DBS_pratice
-
+## DBMS 언어
+- DLL
+데이터 모델 데이터 구조 생성
+-CREATE
+데이터 구조 변경
+-ALTER TABLE
+데이터 구조 삭제
+-DROP TABLE
+데이터 접근을 위해 특정 애트리뷰트 위에 인덱스 정의
+-CREATE INDEX
 
 -기본
 ```
