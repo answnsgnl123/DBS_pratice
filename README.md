@@ -25,6 +25,7 @@ GROUP BY
 HAVING
 ```
 
+```
 -DDL Table Commend
 CREATE TABLE  //생성
 ALTER TABLE   
@@ -36,7 +37,7 @@ TRUNCATE TABLE
 INSERT
 UPDATE
 DELETE
-
+```
 -데이터 무결성 제약 조건
 
 ## 데이터베이스 설계
