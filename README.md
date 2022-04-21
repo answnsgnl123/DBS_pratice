@@ -1,7 +1,7 @@
 # DBS_pratice
 ## DBMS 언어
 ```
-[DLL]
+[DLL] 데이터 정의어 Data Dfinition languge
 1.데이터 모델 데이터 구조 생성
 -CREATE
 2.데이터 구조 변경
@@ -10,7 +10,21 @@
 -DROP TABLE
 4.데이터 접근을 위해 특정 애트리뷰트 위에 인덱스 정의
 -CREATE INDEX
+
+[DML] 데이터 조작어 Data Manipulation languge
+1.데이터의 검색
+-select
+2.데이터의 수정
+-update
+3.데이터의 삭제
+-delete
+4.데이터 삽입
+-insert
 ```
+
+
+
+
 -기본
 ```
   SELECT
