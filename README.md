@@ -1,6 +1,7 @@
 # DBS_pratice
 ## DBMS 언어
-- DLL
+```
+[DLL]
 1.데이터 모델 데이터 구조 생성
 -CREATE
 2.데이터 구조 변경
@@ -9,7 +10,7 @@
 -DROP TABLE
 4.데이터 접근을 위해 특정 애트리뷰트 위에 인덱스 정의
 -CREATE INDEX
-
+```
 -기본
 ```
   SELECT
