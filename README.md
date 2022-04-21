@@ -2,10 +2,11 @@
 
 
 -기본
+```
   SELECT
   WHERE
   ORDER BY
-
+```
 -ORACLE IMPORTENT FUNTION
 DUAL
 숫자 함수
